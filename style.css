@@ -71,8 +71,6 @@ button {
     width: 280px;
     background-color: hsl(245, 75%, 52%);
     margin: 10px 0 20px 0;
-}
-button a {
     text-decoration: none;
     color: white;
 }
